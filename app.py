@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-NBA FanDuel Data Scraper and API - Production Version
-Optimized for web hosting
+NBA FanDuel Data Scraper and API - Railway Optimized
 """
 
 import sqlite3
